@@ -1,6 +1,7 @@
+<div align="center">
 ## Hi there 👋
 ### I'm Alexey, frontend developer
-
+<div>
 <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
