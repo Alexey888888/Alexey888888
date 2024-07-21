@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
 <img src="https://www.json.org/img/json160.gif" width="40" height="40" title="JSON">
-
+<img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=s60" width="40" height="40" title="PerfectPixel">
   
   <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
