@@ -25,6 +25,21 @@
 <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=s60" width="40" height="40" title="PerfectPixel">
 <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/rest-api-icon.png" width="40" height="40" title="REST API">
   
+---
+
+## 💎 My Projects
+
+### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman Icon" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/)
+
+Hangman is the digital version of letter guessing game. 
+
+- **Technologies**: JS, SASS
+- **Features**:
+  - 🌐 **Responsive Design**: Looks great on any device.
+ 
+
+---
+*Last updated on July 21, 2024.*
   <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
