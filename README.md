@@ -35,7 +35,8 @@ Hangman is the digital version of letter guessing game.
 
 - **Technologies**: JS, SASS
 - **Features**:
-  - 🌐 **Responsive Design**: Looks great on any device.
+  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
+  -  **Responsive Design**: Looks great on any device.
  
 
 ---
