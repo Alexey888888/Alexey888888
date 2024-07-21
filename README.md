@@ -21,11 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
-<img src="https://img.icons8.com/ios/50/000000/json.png" width="40" height="40" title="JSON"/>
-</div>
+<img src="https://www.json.org/img/json160.gif" width="40" height="40" title="JSON">
 
-
-<!--
+  
+  <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
