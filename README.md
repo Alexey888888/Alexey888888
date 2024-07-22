@@ -29,7 +29,7 @@
 
 ## 💎 My Projects
 
-### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman Icon" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/)
+### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/)
 
 Hangman is the digital version of letter guessing game. 
 
@@ -37,7 +37,15 @@ Hangman is the digital version of letter guessing game.
 - **Features**:
   -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
- 
+
+ ### <img src="https://github.com/Alexey888888/23Q4/blob/nonograms/nonograms/src/img/png/nonograms.png" alt="Nonograms" width="17" height="17"> [Nonograms](https://alexey888888.github.io/23Q4/nonograms/)
+
+Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the edges of the grid to reveal a hidden picture.. 
+
+- **Technologies**: JS, SASS
+- **Features**:
+  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
+  -  **Responsive Design**: Looks great on any device.
 
 ---
 *Last updated on July 21, 2024.*
