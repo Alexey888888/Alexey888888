@@ -24,7 +24,8 @@
 <img src="https://www.json.org/img/json160.gif" width="40" height="40" title="JSON">
 <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=s60" width="40" height="40" title="PerfectPixel">
 <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/rest-api-icon.png" width="40" height="40" title="REST API">
-  
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="40" height="40" title="npm (npm)" />
+
 ---
 
 ## 💎 My Projects
