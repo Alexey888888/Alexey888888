@@ -33,6 +33,8 @@
 
 ### <img src="https://github.com/Alexey888888/23Q4/blob/rss-puzzle/rss-puzzle/src/assets/icons/favicon.ico" alt="Puzzle" width="17" height="17"> [Puzzle](https://alexey888888.github.io/23Q4/rss-puzzle/)
 
+[Project Repo](https://github.com/Alexey888888/23Q4/tree/rss-puzzle)
+
 Puzzle game. 
 
 - **Technologies**: TS, SASS, Webpack, ESLint, Prettier, Husky.
