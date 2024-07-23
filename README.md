@@ -29,13 +29,13 @@
 
 ## 💎 My Projects
 
-### <img src="https://github.com/Alexey888888/23Q4/blob/rss-puzzle/rss-puzzle/src/assets/icons/favicon.ico" alt="Puzzle" width="17" height="17"> [Puzzle](https://alexey888888.github.io/23Q4/puzzle/)
+### <img src="https://github.com/Alexey888888/23Q4/blob/rss-puzzle/rss-puzzle/src/assets/icons/favicon.ico" alt="Puzzle" width="17" height="17"> [Puzzle](https://alexey888888.github.io/23Q4/rss-puzzle/)
 
 Puzzle game. 
 
-- **Technologies**: JS, SASS
+- **Technologies**: TS, SASS, Webpack, ESLint, Prettier, Husky.
 - **Features**:
-  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
+  -  **Dynamic Content Creation with TypeScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
 
 ### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/)
