@@ -31,9 +31,7 @@
 
 ## 💎 My Projects
 
-### <img src="https://github.com/Alexey888888/23Q4/blob/rss-puzzle/rss-puzzle/src/assets/icons/favicon.ico" alt="Puzzle" width="17" height="17"> [Puzzle](https://alexey888888.github.io/23Q4/rss-puzzle/)
-
-[Project Repo](https://github.com/Alexey888888/23Q4/tree/rss-puzzle)
+### <img src="https://github.com/Alexey888888/23Q4/blob/rss-puzzle/rss-puzzle/src/assets/icons/favicon.ico" alt="Puzzle" width="17" height="17"> [Puzzle](https://alexey888888.github.io/23Q4/rss-puzzle/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q4/tree/rss-puzzle)
 
 Puzzle game. 
 
@@ -42,7 +40,7 @@ Puzzle game.
   -  **Dynamic Content Creation with TypeScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
 
-### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/)
+### <img src="https://raw.githubusercontent.com/Alexey888888/23Q4/hangman/hangman/src/img/png/hangman_icon.png" alt="Hangman" width="17" height="17"> [Hangman](https://alexey888888.github.io/23Q4/hangman/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q4/tree/hangman)
 
 Hangman is the digital version of letter guessing game. 
 
@@ -51,7 +49,7 @@ Hangman is the digital version of letter guessing game.
   -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
 
- ### <img src="https://github.com/Alexey888888/23Q4/blob/nonograms/nonograms/src/img/png/nonograms.png" alt="Nonograms" width="17" height="17"> [Nonograms](https://alexey888888.github.io/23Q4/nonograms/)
+ ### <img src="https://github.com/Alexey888888/23Q4/blob/nonograms/nonograms/src/img/png/nonograms.png" alt="Nonograms" width="17" height="17"> [Nonograms](https://alexey888888.github.io/23Q4/nonograms/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q4/tree/nonograms)
 
 Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the edges of the grid to reveal a hidden picture.. 
 
