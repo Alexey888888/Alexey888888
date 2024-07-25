@@ -59,6 +59,12 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
   -  **Responsive Design**: Looks great on any device.
 
 ---
+
+## 🎓 Certificates
+  - 📜 **RS School** **[JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/5ovod77y)**
+  - 📜  **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
+  - 📜  **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
+
 *Last updated on July 23, 2024.*
   <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
