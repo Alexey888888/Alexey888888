@@ -61,11 +61,12 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
 ---
 
 ## 🎓 Certificates
-  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/5ovod77y)**
-  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
-  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/5ovod77y)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" width="17" height="17"> **Microsoft Learn** **[Build JavaScript applications using TypeScript](https://learn.microsoft.com/api/achievements/share/en-us/alexey888888-9179/UF5NUZM3?sharingId=7354EA968FA6E449)**
 
-*Last updated on July 23, 2024.*
+*Last updated on July 27, 2024.*
   <!--
 **Alexey888888/Alexey888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
