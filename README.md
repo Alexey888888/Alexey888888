@@ -61,9 +61,9 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
 ---
 
 ## 🎓 Certificates
-  - 📜 **RS School** **[JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/5ovod77y)**
-  - 📜  **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
-  - 📜  **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JavaScript/Front-end 2023Q4](https://app.rs.school/certificate/5ovod77y)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="Hangman" width="17" height="17"> **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
 
 *Last updated on July 23, 2024.*
   <!--
