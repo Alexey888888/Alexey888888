@@ -26,6 +26,7 @@
 <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/rest-api-icon.png" width="40" height="40" title="REST API">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="40" height="40" title="npm (npm)" />
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" title="VS Code" />
+</div>
 
 ---
 
@@ -65,6 +66,15 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
   - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JS/FE Pre-School 2023Q2](https://app.rs.school/certificate/gn4ast53)**
   - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" width="17" height="17"> **Microsoft Learn** **[Build JavaScript applications using TypeScript](https://learn.microsoft.com/api/achievements/share/en-us/alexey888888-9179/UF5NUZM3?sharingId=7354EA968FA6E449)**
+
+<a href="https://rs.school/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="50" height="50">
+</a>
+<a href="https://learn.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" width="50" height="50">
+</a>
+
+---
 
 *Last updated on July 27, 2024.*
   <!--
