@@ -67,20 +67,10 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
   - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="17" height="17"> **RS School** **[JS/FE Pre-School 2022Q4](https://app.rs.school/certificate/fby351xa)**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" width="17" height="17"> **Microsoft Learn** **[Build JavaScript applications using TypeScript](https://learn.microsoft.com/api/achievements/share/en-us/alexey888888-9179/UF5NUZM3?sharingId=7354EA968FA6E449)**
 
-<table>
-  <tr>
-    <td>
-      <a href="https://rs.school/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" width="70" height="70" style="border: none;">
-      </a>
-    </td>
-    <td>
-      <a href="https://learn.microsoft.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" width="70" height="70" style="border: none;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+   <a href="https://rs.school"><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBOhHYnqLvXpKaIojDv47P75ZYXHq-1p3mg&s" alt="RS School" style="width: 50px;"></a>
+   <a href="https://learn.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" alt="Microsoft Learn" style="width: 50px;"></a>
+</div>
 
 ---
 
