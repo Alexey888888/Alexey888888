@@ -59,6 +59,15 @@ Nonograms are picture logic puzzles in which cells in a grid must be colored or 
   -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
 
+ ### <img src="https://github.com/Alexey888888/23Q4/blob/news-api/news-api/src/assets/img/news_logo.png" alt="news-api" width="17" height="17"> [News-API](https://alexey888888.github.io/23Q4/news-api/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q4/tree/news-api/news-api)
+
+Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the edges of the grid to reveal a hidden picture.. 
+
+- **Technologies**: JS, SASS
+- **Features**:
+  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
+  -  **Responsive Design**: Looks great on any device.
+
 ---
 
 ## 🎓 Certificates and achievements
