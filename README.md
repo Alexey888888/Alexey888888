@@ -72,10 +72,10 @@ News-API is a simple HTTP REST API for searching and retrieving news from across
 
 Cooffee-house.
 
-- **Technologies**: JS, SASS, PerfectPixel
+- **Technologies**: JS, SASS.
 - **Features**:
-  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
+  -  **PerfectPixel**: [Design in Figma ](https://www.figma.com/design/SAoBmuOqTfguehdT4IFRxQ/Coffee-House?node-id=0-1)
 
 ---
 
