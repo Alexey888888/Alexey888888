@@ -67,6 +67,15 @@ News-API is a simple HTTP REST API for searching and retrieving news from across
 - **Features**:
   -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
   -  **Responsive Design**: Looks great on any device.
+ 
+ ### <img src="https://github.com/Alexey888888/23Q4/blob/coffee-house-week3/coffee-house/src/img/icons/favicon.ico" alt="coffee-house" width="17" height="17"> [Coffee-house](https://alexey888888.github.io/23Q4/coffee-house/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q4/tree/coffee-house-week3/coffee-house)
+
+Cooffee-house.
+
+- **Technologies**: JS, SASS, PerfectPixel
+- **Features**:
+  -  **Dynamic Content Creation with JavaScript**: All markup and interface elements are created and managed via JavaScript.
+  -  **Responsive Design**: Looks great on any device.
 
 ---
 
