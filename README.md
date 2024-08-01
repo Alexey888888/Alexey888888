@@ -85,6 +85,15 @@ Library.
 - **Features**:
   -  **Responsive Design**: Looks great on any device.
   -  **PerfectPixel**: [Design in Figma ](https://www.figma.com/design/SGY7eOpXC1xBddFNsb72o7/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-stage0)
+ 
+### <img src="https://github.com/Alexey888888/23Q1/blob/shelter-part3/shelter/assets/icons/favicon.ico" alt="shelter" width="17" height="17"> [Shelter](https://alexey888888.github.io/23Q1/shelter/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/23Q1/tree/shelter-part3)
+
+Shelter.
+
+- **Technologies**: JS, SASS.
+- **Features**:
+  -  **Responsive Design**: Looks great on any device.
+  -  **PerfectPixel**: [Design in Figma ](https://www.figma.com/design/Yk6EnbY63FyG2PJTFkJDMh/shelter)
 
 ---
 
