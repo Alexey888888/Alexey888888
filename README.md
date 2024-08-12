@@ -95,6 +95,15 @@ Shelter.
   -  **Responsive Design**: Looks great on any device.
   -  **PerfectPixel**: [Design in Figma ](https://www.figma.com/design/Yk6EnbY63FyG2PJTFkJDMh/shelter)
 
+### <img src="https://github.com/Alexey888888/22Q4/blob/plants-part3/plants/assets/img/favicon.png" alt="shelter" width="17" height="17"> [Plants](https://alexey888888.github.io/22Q4/plants/) &nbsp;&nbsp; | &nbsp;&nbsp; [Project Repo](https://github.com/Alexey888888/22Q4/tree/plants-part3)
+
+Plants.
+
+- **Technologies**: JS, CSS.
+- **Features**:
+  -  **Responsive Design**: Looks great on any device.
+  -  **PerfectPixel**: [Design in Figma ](https://www.figma.com/design/ntVt8IwlwzfVFMBuVVAze8/Plants?node-id=0-1)
+
 ---
 
 ## 🎓 Certificates and achievements
