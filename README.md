@@ -13,6 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" title="Redux"/>
 <img src="./src/img/icons/react-router-mark-color.svg" width="40" height="40" title="React Router" />
+<img src="./src/img/icons/vitest_logo.svg" width="40" height="40" title="Vitest" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" title="Jest"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" title="Webpack"/>
 <img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" width="40" height="40" title="Vite"/>
