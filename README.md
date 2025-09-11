@@ -29,7 +29,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="40" height="40" title="npm (npm)" />
 <img src="./src/img/icons/markdown.svg" width="40" height="40" title="Markdown" />
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" title="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
 </div>
 
 ---
