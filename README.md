@@ -36,6 +36,7 @@
 <img src="./src/img/icons/Postgresql_elephant.svg" width="40" height="40" title="Postgresql" />
 <img src="./src/img/icons/strapi.avif" width="40" height="40" title="Strapi" />
 <img src="./src/img/icons/vercel-icon.svg" width="40" height="40" title="Vercel" />
+<img src="./src/img/icons/supabase-logo-icon.svg" width="40" height="40" title="Supabase" />
 </div>
 
 ---
