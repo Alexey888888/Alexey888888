@@ -4,7 +4,7 @@
   
 ## ☑️ Skills
 
-<div>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="SCSS (SASS)" />
@@ -37,7 +37,7 @@
 <img src="./src/img/icons/strapi.avif" width="40" height="40" title="Strapi" />
 <img src="./src/img/icons/vercel-icon.svg" width="40" height="40" title="Vercel" />
 <img src="./src/img/icons/supabase-logo-icon.svg" width="40" height="40" title="Supabase" />
-</div>
+</p>
 
 ---
 
